@@ -8,7 +8,6 @@
 
 
 ## 🌱 Activity
-UMC Soongsil -4th Part Leader (2023.03 ~)  
 UMC Soongsil -3rd Member (2022.09 ~ 2023.03)
 SSCC -40th (2022.09 ~)    
 SSUPER-POWER -2nd Member (2022.08 ~)  

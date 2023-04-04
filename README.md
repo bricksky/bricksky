@@ -7,12 +7,3 @@
 
 
 
-## 🌱 Activity
-UMC Soongsil -3rd Member (2022.09 ~ 2023.03)
-  
-SSCC -40th (2022.09 ~)
-  
-SSUPER-POWER -2nd Member (2022.08 ~)  
-  
-Soongsil University AI Human Meta Project (2022.08)
-</div>

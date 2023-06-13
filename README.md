@@ -14,8 +14,8 @@
 
 ### 🌊 Activity
 
-- [SOPT](https://www.sopt.org/) - iOS Part
-- [YourSSU](https://intro.yourssu.com/) - iOS developer 
+- 숭실대학교 중앙동아리 [YourSSU](https://intro.yourssu.com/) - iOS developer 
+- IT 연합 창업동아리 [SOPT](https://www.sopt.org/) - iOS Part 
 - [UMC](https://www.makeus.in/umc) Soongsil - 3rd,4th iOS,Design
 - SW/DT   새싹(SeSAC) 경진대회 참여
 - Samsung Software Developer Conference 2022 참가

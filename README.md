@@ -5,7 +5,7 @@
 
 
 ### 🌳 Project
-- [**Lion-Heart**](https://github.com/gosopt-LionHeart)  
+- [**Lion-Heart**](https://github.com/Team-LionHeart/LionHeart-iOS)  
  하루 10분, 좋은 아빠가 되는 방법
 - [**Fairer**](https://www.behance.net/gallery/147276499/fairerPeacemaker-for-Houseworker)  
   평화로운 가사 관리 분담 서비스 
@@ -20,6 +20,5 @@
 - IT 연합 창업동아리 [SOPT](https://www.sopt.org/) - iOS Part 
 - [UMC](https://www.makeus.in/umc) Soongsil - 3rd,4th iOS,Design
 - SW/DT   새싹(SeSAC) 경진대회 참여
-- Samsung Software Developer Conference 2022 참가
-- 숭실대학교 전공안내 홍보영상 촬영
-- 숭실대학교 AI휴먼메타프로젝트 영상 촬영
+- 숭실대학교 전공안내 홍보영상 출연
+- 숭실대학교 AI휴먼메타프로젝트 참여
